@@ -1,0 +1,21 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "NodeJS starter lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Jasur Abdurahmonov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
